@@ -1,0 +1,14 @@
+{
+  "name": "socket.io",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Burhan Güven <burhanguven34@hotmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/burhanguven/socket.io",
+  "dependencies": {
+    "angular": "^1.7.8",
+    "semantic": "^2.4.1"
+  }
+}
